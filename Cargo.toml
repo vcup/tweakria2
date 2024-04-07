@@ -8,3 +8,4 @@ edition = "2021"
 
 [dependencies]
 git2 = "0.18.3"
+tempfile = "3.10.1"
