@@ -8,6 +8,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.81"
+dirs = "5.0.1"
 git2 = "0.18.3"
 tempfile = "3.10.1"
 thiserror = "1.0.58"
